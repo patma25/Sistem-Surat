@@ -1,0 +1,7 @@
+📁 Sistem Surat
+Dashboard Surat Masuk Surat Keluar
+Surat Masuk
+No	Nomor Surat	Perihal	Tanggal	Status
+1	001/SM/I/2025	Undangan Rapat	03 Jan 2025	Baru
+2	002/SM/I/2025	Permohonan Data	04 Jan 2025	Baru
+3	003/SM/I/2025	Pemberitahuan UAS	05 Jan 2025	Dibaca
